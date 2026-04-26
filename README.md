@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Aleks 👋
 
-<!--
-**aleksfet/aleksfet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Business Analytics student at the University of South Florida, with major interests in AI and software development.
 
-Here are some ideas to get you started:
+## 😎 About Me
+- Major: Business Analytics & Information Systems
+- Chess player
+- I am interested in math and computers 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills (Learning)
+- Python
+- Excel
+- Git/GitHub
+- Analytical thinking 
+
+## 🎯 Goals
+I am working to learn and build my technical skills and create projects.
