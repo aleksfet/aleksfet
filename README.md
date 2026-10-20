@@ -1,17 +1,17 @@
 ## Hi there, I'm Aleks 👋
 
-I am a Business Analytics student at the University of South Florida, with major interests in AI and software development.
+I'm an Artificial Intelligence & Business Analytics student at the University of South Florida with interests in AI, software development, analytics, and network automation.
 
 ## 😎 About Me
-- Major: Business Analytics & Information Systems
-- Chess player
-- I am interested in math and computers 
+- Major: Artificial Intelligence & Business Analytics at USF
+- Competitive chess player - USCF Expert (2000+)
+- I am interested in analytics, computers, and software development.
 
-## 💻 Skills (Learning)
-- Python
-- Excel
-- Git/GitHub
-- Analytical thinking 
+## 💻 Skills 
+- Python, JavaScript, HTML/CSS, SQL
+- React, Next.js, Supabase, Streamlit
+- Git/GitHub, Vercel, Linux
+- Excel, Tableau, networking, AI/LLM workflows
 
 ## 🎯 Goals
 I am working to learn and build my technical skills and create projects.
